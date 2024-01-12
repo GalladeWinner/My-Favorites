@@ -1,0 +1,27 @@
+#fav{
+    background-color: cyan; font-size:30px;
+    text-align: center;
+    color:blueviolet ;
+}
+button{
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: 25px;
+    padding: 10px ;
+    margin: 10px; 
+}
+.content{
+    display:flex;
+  }
+  .place{
+    height:600px;
+    width:200px;
+
+    padding : 40px; 
+    margin:50px;
+  }
+  #Clay{
+    text-align: center;
+    font-size:75px;
+  }
+
